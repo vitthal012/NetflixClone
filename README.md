@@ -1,1 +1,2 @@
 # NetflixClone
+Author-Vitthal Srivastava
