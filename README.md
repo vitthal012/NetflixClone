@@ -1,3 +1,3 @@
 # NetflixClone
 
-<h1>Author-Vitthal Srivastava</h1>
+<h3>Author-Vitthal Srivastava</h3>
